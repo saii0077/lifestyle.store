@@ -1,1 +1,3 @@
-console.log("Lifestyle website loaded");
+import { auth, db } from "./firebase.js";
+
+console.log("Firebase connected ✅");
